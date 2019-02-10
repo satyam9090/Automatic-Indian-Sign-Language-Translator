@@ -7,7 +7,7 @@
 - Dictionary based Machine Translation.
 
 ## To run the application.
-1. Open the folder named *Source Code* and there open the terminal.
+1. Open the Downloads folder and then open the terminal.
 2. From the terminal, run the *main* python file using the command **python main.py**.
 3. The application interface appears on the screen.
 4. Hit the record button to start taking speech as input.
